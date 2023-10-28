@@ -8,7 +8,7 @@ Neste cenário, os filósofos são músicos ávidos que desejam tocar suas bater
 
 ## Demonstração
 
-![GIF de Execução do Programa](<img src="img/demonstracao.gif">)
+![GIF de Execução do Programa](img/demonstracao.gif)
 
 ### Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas:
