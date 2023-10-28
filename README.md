@@ -1,7 +1,7 @@
 # Jantar dos Filósofos - Versão Sessão de Bateria
 
 ## Descrição
-Bem-vindo à versão inovadora do clássico problema do "Jantar dos Filósofos". Este desafio aborda o dilema do acesso mútuo a uma região crítica, mas com uma reviravolta única: em vez de garfos, os filósofos agora compartilham baquetas. Cada baterista precisa de duas baquetas para poder tocar sua bateria, adicionando uma camada extra de complexidade ao problema.
+Bem-vindo à versão inovadora do clássico problema do "Jantar dos Filósofos". Este desafio aborda o dilema do acesso mútuo a uma região crítica, mas com uma reviravolta única: em vez de garfos, os filósofos agora compartilham baquetas. Cada baterista precisa de duas baquetas para poder tocar sua bateria.
 
 ### Como Funciona
 Neste cenário, os filósofos são músicos ávidos que desejam tocar suas baterias. Eles compartilham um conjunto limitado de baquetas e devem adquirir duas baquetas para começar a tocar. No entanto, a obtenção das baquetas é uma operação crítica que requer coordenação para evitar impasses.
