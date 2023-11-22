@@ -16,7 +16,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ## Como Executar
 1. Clone este repositório: `git clone https://github.com/jvmaiscedo/jantar-dos-filosofos-versao-bateristas.git`
-2. Navegue até o diretório do projeto: `cd seu-repositorio`
+2. Navegue até o diretório do projeto: `cd jantar-dos-filosofos-versao-bateristas-main`
 3. Execute o programa: `javac Principal.java` -> `java Principal`
 
 
